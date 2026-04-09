@@ -14,7 +14,7 @@
     "@ant-design/plots": "^2.2.1",
     "@icon-park/react": "^1.4.2",
     "antd": "^5.16.4",
-    "axios": "^1.6.8",
+    "axios": "^1.15.0",
     "dayjs": "^1.11.10",
     "mac-scrollbar": "^0.13.6",
     "mobx": "^6.12.3",
